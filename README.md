@@ -1,6 +1,6 @@
 ### Hi there 👋, Nandini
 #### Developer
-![Developer](https://cdnb.artstation.com/p/assets/images/images/024/468/725/large/raebel-christo-coder1.jpg?1582535204)
+![Developer](https://github.com/nandini040/nandini040/blob/main/Twitter%20header.jpg)
 
 I'm Nandini from India. I really enjoy learning languages and framework.
 
