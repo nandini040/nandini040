@@ -3,10 +3,10 @@
 # Halo I'm Nandini! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
 
-🔭 I’m currently working on My self.
-🌱 I’m currently learning Google cloud. 
-💬 Ask me about C/C++. 
-📫 How to reach me: Linkedln:https://www.linkedin.com/in/nandini-ab21731bb/  
+ * 🔭 I’m currently working on My self.
+ * 🌱 I’m currently learning Google cloud. 
+ * 💬 Ask me about C/C++. 
+ * 📫 How to reach me: Linkedln:https://www.linkedin.com/in/nandini-ab21731bb/  
                        Twitter:https://twitter.com/Nandini_n_a 
 
 ## Skills and Experience
