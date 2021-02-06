@@ -1,6 +1,6 @@
 ![Developer](https://github.com/nandini040/nandini040/blob/main/Twitter%20header.jpg)
 
-# Halo I'm Nandini! 👋
+# Hello I'm Nandini! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
 
  * 🔭 I’m currently working on My self.
