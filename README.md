@@ -1,10 +1,10 @@
-### Hi there 👋, Nandini
-#### Developer
 ![Developer](https://github.com/nandini040/nandini040/blob/main/Twitter%20header.jpg)
 
+# Halo I'm Nandini! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
 
-Skills: C / C++ / HTML
+##Skills and Experience
+* 💻 C, C++, HTML
 
 - 🔭 I’m currently working on My self 
 - 🌱 I’m currently learning Google cloud 
