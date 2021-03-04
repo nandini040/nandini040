@@ -4,7 +4,7 @@
 # Hello I'm Nandini! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
  * 📖 B.Tech sophomore 
- * 🔭 I’m currently working on My self.
+ * 🔭 I’m currently working on Open Source.
  * 🌱 I’m currently learning Google cloud. 
  * 💬 Ask me about C/C++. 
  <p align="center">
