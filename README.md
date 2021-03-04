@@ -4,8 +4,8 @@
 # Hello I'm Nandini! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
  * 📖 B.Tech sophomore 
- * 🔭 currently working on Open Source.
- * 🌱 currently learning about Google cloud. 
+ * 🔭 Currently working on Open Source.
+ * 🌱 Currently learning about Google cloud. 
  * 😀 Pronounce: Her/She.
 
  <p align="center">
