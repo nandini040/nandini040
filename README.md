@@ -1,4 +1,4 @@
-![Developer](https://github.com/nandini040/nandini040/blob/main/Twitter%20header.jpg )
+![Developer](https://github.com/nandini040/nandini040/blob/main/Nandini.gif)
 
 
 # Hello I'm Nandini! 👋
