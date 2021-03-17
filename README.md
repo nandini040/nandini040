@@ -1,7 +1,7 @@
 ![Developer](https://github.com/nandini040/nandini040/blob/main/Nandini.gif)
 
 
-# Hello I'm Nandini! 👋
+# Hello! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
  * 📖 B.Tech sophomore 
  * 🔭 Currently working on Open Source.
