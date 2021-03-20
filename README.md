@@ -3,7 +3,7 @@
 
 # Hello! 👋
 I'm Nandini from India. I really enjoy learning languages and framework.
- * 📖 B.Tech sophomore 
+ * 📖 B.Tech sophomore.
  * 🔭 Currently working on Open Source.
  * 🌱 Currently learning about Google cloud. 
  * 😀 Pronounce: Her/She.
@@ -28,9 +28,9 @@ I'm Nandini from India. I really enjoy learning languages and framework.
  
 <h2 align="left"> Github Stats:</h2>
  
- ![Subhangini github activity graph](https://activity-graph.herokuapp.com/graph?username=nandini040&theme=xcode)
+ ![Nandini github activity graph](https://activity-graph.herokuapp.com/graph?username=nandini040&theme=xcode)
  
- <h2 align="left">My contribution streak 🔥 :</h2>
+ <h2 align="left">🔥My contribution streak:</h2>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandini040&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
